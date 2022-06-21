@@ -1,0 +1,27 @@
+#main_title{
+    color: green;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.iconbar{
+    list-style-type: none;
+    margin-left: 1190px;
+    line-height: 0.5px;
+    margin-top: -40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+}
+#gam_search{
+    width: 190px;
+    height: 20px;
+    margin-left: 900px;
+}
